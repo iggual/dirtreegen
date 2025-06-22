@@ -1,6 +1,6 @@
 # Directory Structure ASCII Generator 
 
-## dirtreegen
+## dirtreegen.py
 
 A lightweight Python script that generates a clean hierarchical `ASCII tree` representation of a directory structure and saves it to a text file. Automatically detects the target folder and excludes the script/output files from the listing.
 
